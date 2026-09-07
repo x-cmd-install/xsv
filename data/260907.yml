@@ -5,7 +5,7 @@ about:
   head: f430466
   archived: true
   latestVersion: "0.13.0"
-  collectedAt: 2026-09-07T05:58:43Z
+  collectedAt: 2026-09-07T18:29:47Z
 timeline:
   created: 2014-09-02
   lastCommit: 2025-04-24
@@ -82,7 +82,7 @@ total:
   commit: 407
 ---
 path: /home/runner/.x-repo/github.com/BurntSushi/xsv
-collectedAt: 2026-09-07T05:58:43Z
+collectedAt: 2026-09-07T18:29:48Z
 loc:
   Rust:
     code: 6147
@@ -215,7 +215,7 @@ checks:
       - 'Warn: 0 commits out of 12 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:58:44+00:00
+  collectedAt: 2026-09-07T18:29:48+00:00
   platform:
     darwin/arm64:
       name:  null
