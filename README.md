@@ -1,6 +1,24 @@
----
-owner-repo: BurntSushi/xsv
-desc:   A fast CSV command line toolkit written in Rust.
----
-
 # xsv
+
+A fast CSV command line toolkit written in Rust.
+
+- **Upstream**: <https://github.com/BurntSushi/xsv>
+- **Homepage**: <>
+- **Latest release**: `0.13.0` (2018-05-12)
+- **Last commit**: 2025-04-24
+- **License**: Unlicense
+- **Stars**: 10760 · **Forks**: 326 · **Open issues**: 261 · **Contributors**: 26
+
+## Installation
+
+```sh
+x install xsv
+```
+
+See <https://x-cmd.com/install/xsv> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T12:27:37Z._
