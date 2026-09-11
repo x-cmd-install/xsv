@@ -7,7 +7,7 @@ about:
   latestVersion: "0.13.0"
   latestRelease: "0.13.0"
   latestPrerelease: "0.9.14"
-  collectedAt: 2026-09-11T06:10:45Z
+  collectedAt: 2026-09-11T18:45:05Z
 timeline:
   created: 2014-09-02
   lastCommit: 2025-04-24
@@ -86,7 +86,7 @@ total:
   commit: 407
 ---
 path: /home/runner/.x-repo/github.com/BurntSushi/xsv
-collectedAt: 2026-09-11T06:10:46Z
+collectedAt: 2026-09-11T18:45:06Z
 loc:
   Rust:
     code: 6147
