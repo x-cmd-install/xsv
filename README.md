@@ -32,9 +32,9 @@ Overall score: **2.1 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
-- **Maintained** (0/10) — project is archived
+- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -59,12 +59,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 0 | 0 | 1 | 2 | 2 | 1 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-20 | 0 | 0 | 1 | 2 | 2 | 1 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for xsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:06:54Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:51:29Z._
